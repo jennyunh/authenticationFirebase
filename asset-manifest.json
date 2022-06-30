@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/authenticationFirebase/static/css/main.94308ed4.chunk.css",
+    "main.js": "/authenticationFirebase/static/js/main.b6032782.chunk.js",
+    "main.js.map": "/authenticationFirebase/static/js/main.b6032782.chunk.js.map",
+    "runtime-main.js": "/authenticationFirebase/static/js/runtime-main.c9401e4e.js",
+    "runtime-main.js.map": "/authenticationFirebase/static/js/runtime-main.c9401e4e.js.map",
+    "static/js/2.fa36c5d2.chunk.js": "/authenticationFirebase/static/js/2.fa36c5d2.chunk.js",
+    "static/js/2.fa36c5d2.chunk.js.map": "/authenticationFirebase/static/js/2.fa36c5d2.chunk.js.map",
+    "index.html": "/authenticationFirebase/index.html",
+    "static/css/main.94308ed4.chunk.css.map": "/authenticationFirebase/static/css/main.94308ed4.chunk.css.map",
+    "static/js/2.fa36c5d2.chunk.js.LICENSE.txt": "/authenticationFirebase/static/js/2.fa36c5d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9401e4e.js",
+    "static/js/2.fa36c5d2.chunk.js",
+    "static/css/main.94308ed4.chunk.css",
+    "static/js/main.b6032782.chunk.js"
+  ]
+}
